@@ -1,6 +1,8 @@
 # Execution
 
+```python
 python3 __init__.py
+```
 
 # Operations
 
